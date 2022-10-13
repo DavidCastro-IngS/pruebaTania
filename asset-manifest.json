@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pruebaTania/static/css/main.4b5987a3.css",
+    "main.js": "/pruebaTania/static/js/main.fcbb1447.js",
+    "index.html": "/pruebaTania/index.html",
+    "main.4b5987a3.css.map": "/pruebaTania/static/css/main.4b5987a3.css.map",
+    "main.fcbb1447.js.map": "/pruebaTania/static/js/main.fcbb1447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5987a3.css",
+    "static/js/main.fcbb1447.js"
+  ]
+}
